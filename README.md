@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mohanbabu-debug
-- 👀 I’m interested in ... React and Python Django 
-- 🌱 I’m currently learning ...
+- 👀 I’m familier in ... React and Python Django 
+- 🌱 I’m currently working ...
 - 💞️ I’m looking to collaborate on ...Frontend and Backend
 - 📫 How to reach me ...from gmail contact v.m.mohan98@gmail.com
 
